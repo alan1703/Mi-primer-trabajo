@@ -1,0 +1,19 @@
+
+Algoritmo, Actividad de clase
+Alan Alvarez
+
+1. Inicio
+2. Definir promedio, numero 1, numero 2, numero 3, numero 4, numero 5
+3. Imprimir "Dame el numero 1:"
+4. Hacer numero1 = entrada del usuario 
+5. Imprimir "Dame el numero 2:"
+6. Hacer numero2 = entrada del usuario 
+7. Imprimir "Dame el numero 3:"
+8. Hacer numero3 = entrada del usuario 
+9. Imprimir "Dame el numero 4:"
+10. Hacer numero4 = entrada del usuario 
+11. Imprimir "Dame el numero 5:"
+12. Hacer numero5 = entrada del usuario 
+13. Hacer promedio = (numero1 + numero2 + numero3 + numero4 + numero5)/ 5
+14. Imprimir "Dados los datos el promedio seria: " promedio 
+15. Fin
