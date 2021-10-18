@@ -1,0 +1,19 @@
+
+# Este programa ayuda a calcular el area de un cuadrado o un rectangulo
+# 18 de Octubre de 2021
+# Autor: Alan Alvarez
+
+# Inicio
+# Imprimir "Cual es la medida del ancho: "
+print("Cual es la medida de la base?")
+# Hacer base = entrada del usuario
+base = int(input())
+# Imprimir "Cual es la medida de la altura"
+print("Cual es la medida de la altura?")
+# Hacer altura = entrada del usuario
+altura = int(input())
+# Hacer area = (base * altura)
+area = base * altura
+# Imprimir "El area seria igual a: " area
+print("El area seria igual a", area)
+# Fin 
