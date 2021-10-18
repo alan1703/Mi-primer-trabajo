@@ -1,0 +1,14 @@
+
+Algoritmo para calcular el area de un cuarto rectangular o cuadrado 
+Alan Alvarez
+
+1. Inicio
+2. Definir area, ancho, altura
+3. Imprimir "Cual es la medida del ancho:"
+4. Hacer base = entrada del usuario
+5. Imprimir "Cual es la medida de la altura:"
+6. Hacer altura = entrada del usuario
+7. Hacer area = (base * altura)
+8. Imprimir "El area seria igual a: " area
+9. Fin 
+
